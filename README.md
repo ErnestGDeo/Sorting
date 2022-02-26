@@ -30,3 +30,5 @@ Insertion Sort adalah salah satu dari metode sorting, proses algoritma insertion
 
 # Selection Sort
 Selection Sort merupakan kombinasi antara sorting dan searching. Metode ini sangat sederhana karena setiap proses akan dicari elemen-elemen yang belum diurutkan yang terkecil (ascending) atau terbesar (descending) yang akan ditukarkan ke posisi yang tepat di dalam array.
+
+![Screenshot (131)](https://user-images.githubusercontent.com/99226822/155837735-51273f4d-3b9c-4099-add5-ff5bfe7978c5.png)
