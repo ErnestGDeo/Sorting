@@ -22,4 +22,4 @@ Selection Sort
 
 # Bubble Sort
 Bubble Sort merupakan salah satu algoritma sorting data yang sangat sering digunakan karena terlihat sederhana untuk diimplementasikan, walaupun Bubble Sort bukanlah algoritma sorting yang terbaik dari segi kecepatan. Algoritma pengurutan ini membandingkan dua buah elemen yang bersebelahan lalu dilakukan penukaran jika urutannya tidak sesuai.
-
+![Screenshot (135)](https://user-images.githubusercontent.com/99226822/155837207-0aaf4971-5f18-4f4d-9ccc-44106cd98975.png)
