@@ -20,8 +20,13 @@ Bubble Sort, Insertion Sort dan Selection Sort
 
 # Bubble Sort
 Bubble Sort merupakan salah satu algoritma sorting data yang sangat sering digunakan karena terlihat sederhana untuk diimplementasikan, walaupun Bubble Sort bukanlah algoritma sorting yang terbaik dari segi kecepatan. Algoritma pengurutan ini membandingkan dua buah elemen yang bersebelahan lalu dilakukan penukaran jika urutannya tidak sesuai.
+
 ![Screenshot (135)](https://user-images.githubusercontent.com/99226822/155837207-0aaf4971-5f18-4f4d-9ccc-44106cd98975.png)
 
 # Insertion Sort
 Insertion Sort adalah salah satu dari metode sorting, proses algoritma insertion sort ini adalah nilai atau data yang ada pada tiap indeks array akan dibandingkan apakah data tersebut lebih tinggi atau lebih rendah daripada data sebelumnya. Kemudian jika indeks yang telah dibandingkan tersebut lebih rendah atau lebih tinggi daripada data yang sebelumnya, maka akan dilakukan perpindahan atau pergeseran data ke posisi yang sesuai.
+
 ![Screenshot (130)](https://user-images.githubusercontent.com/99226822/155837485-b5807dba-dbee-4005-b3e2-3070709497b3.png)
+
+# Selection Sort
+Selection Sort merupakan kombinasi antara sorting dan searching. Metode ini sangat sederhana karena setiap proses akan dicari elemen-elemen yang belum diurutkan yang terkecil (ascending) atau terbesar (descending) yang akan ditukarkan ke posisi yang tepat di dalam array.
