@@ -1,6 +1,6 @@
 <html>
   <head>
-    <h1><b>Penjelasan</b></h1>
+    <h1>PENJELASAN</h1>
   </head>
   <body>
     <h1>CODE PROGRAM</h1>
