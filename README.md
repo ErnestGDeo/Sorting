@@ -16,10 +16,11 @@
 Pengurutan (Sorting) adalah proses pengurutan data yang sebelumnya disusun secara acak sehingga tersusun secara teratur menurut aturan tertentu. Pengurutan data dalam struktur data sangat penting terutama untuk data yang bertipe data numerik ataupun karakter. Pengurutan dapat dilakukan secara ascending (urut naik) dan descending (urut turun).
 
 # Metode Sorting
-Bubble Sort
-Insertion Sort
-Selection Sort
+Bubble Sort, Insertion Sort dan Selection Sort
 
 # Bubble Sort
 Bubble Sort merupakan salah satu algoritma sorting data yang sangat sering digunakan karena terlihat sederhana untuk diimplementasikan, walaupun Bubble Sort bukanlah algoritma sorting yang terbaik dari segi kecepatan. Algoritma pengurutan ini membandingkan dua buah elemen yang bersebelahan lalu dilakukan penukaran jika urutannya tidak sesuai.
 ![Screenshot (135)](https://user-images.githubusercontent.com/99226822/155837207-0aaf4971-5f18-4f4d-9ccc-44106cd98975.png)
+
+# Insertion Sort
+Insertion Sort adalah salah satu dari metode sorting, proses algoritma insertion sort ini adalah nilai atau data yang ada pada tiap indeks array akan dibandingkan apakah data tersebut lebih tinggi atau lebih rendah daripada data sebelumnya. Kemudian jika indeks yang telah dibandingkan tersebut lebih rendah atau lebih tinggi daripada data yang sebelumnya, maka akan dilakukan perpindahan atau pergeseran data ke posisi yang sesuai.
